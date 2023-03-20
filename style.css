@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: aquamarine;
+    /* border: 1px solid red ; */
+}
+
+.hello{
+    text-align: center;
+    font-size: 33px;
+}
+
+.course{
+    padding: 0px 244px;
+    font-size: 20px;
+    margin: 1px;
+}
+
+.action{
+    padding: 0 123px;
+}
+.suraj{
+    padding: 0px 118px;
+}
+p{
+    padding: 0 121px;
+    margin: 12px 3px;
+}
+
+.action input{
+     width: 71%;
+     padding: 7px 10px 7px;
+    margin: -8px 119px -8px; 
+    border-radius: 7px;
+    border-block-color: black; 
+    position: relative;
+    top: -28px;
+    right: 15px;
+    left: 71px;
+    bottom: 294px;
+}
+.apna{
+    padding:0px 240px;
+    box-sizing: content-box;
+    /* width: 100%;
+    border: solid #5B6DCD 10px;
+    padding: 5px; */
+}
+h4{
+    padding: 0px 240px;
+}
+.hii{
+    padding:0px 118px;
+}
+textarea{
+    padding: 7px 10px 7px;
+    margin: -8px 242px -8px;
+    height: 100px;
+    position: relative;
+    top: 5px;
+    width: 57%;
+    border-radius: 11px
+}
+.btn{
+    margin: 23px;
+    width: 10%;
+    cursor: pointer;
+    position: relative;
+    right: -431px;
+    top: 10px;
+    border-radius: 9px;
+}
